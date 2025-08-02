@@ -39,8 +39,8 @@ Welcome to my certification repository! Here you’ll find proof of my commitmen
 ## 📫 Contact
 
 Interested in discussing an opportunity or learning more?  
-[Connect with me on [LinkedIn][https://www.linkedin.com/in/sunday-oyebiyi/]
-or email: [oyebiyisunday@gmail.com]
+[Connect with me on [LinkedIn : https://www.linkedin.com/in/sunday-oyebiyi/]
+or [Email: oyebiyisunday@gmail.com]
 
 ---
 
@@ -48,4 +48,3 @@ or email: [oyebiyisunday@gmail.com]
 
 ---
 
-Feel free to edit the contact information and LinkedIn link to personalize this further. Let me know if you want a more tailored version or want to include additional sections!
